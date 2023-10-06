@@ -1,0 +1,12 @@
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\bin\Debug\net6.0\Model.deps.json
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\bin\Debug\net6.0\Model.dll
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\bin\Debug\net6.0\Model.pdb
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\Model.dll
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\refint\Model.dll
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\Model.pdb
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\ref\Model.dll
+C:\Users\ACER\OneDrive\Tài liệu\GitHub\TN_web\API-Admin-CET\WebApplication2\Models\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
